@@ -1,2 +1,2 @@
 # trabalhoLogica
-primeir trabalho lógica SerraTec
+primeiro trabalho lógica SerraTec
